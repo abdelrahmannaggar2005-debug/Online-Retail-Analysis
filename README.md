@@ -260,6 +260,6 @@ It reflects real-world data challenges and showcases how data analysis can drive
 
 For feedback, collaboration, or opportunities:
 
-**Name:** [Your Name]
+**Name:** Abdelrahman Ahmed
 **Role:** Data Analyst
-**LinkedIn:** [Your LinkedIn]
+**LinkedIn:** [Abdelrahman LinkedIn](https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
