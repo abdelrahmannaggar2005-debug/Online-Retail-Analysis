@@ -2,7 +2,7 @@
 
 ## 🧠 Project Overview
 
-<img width="1196" height="706" alt="p4" src="https://github.com/user-attachments/assets/29ccf7b3-345d-42e2-8f6c-7306258f23cf" />
+<img width="1209" height="717" alt="image" src="https://github.com/user-attachments/assets/01004078-0013-46c2-822f-ac1df26249fa" />
 
 This project is an **end-to-end advanced data analysis case study** designed to simulate a real-world business scenario for an e-commerce company.
 The goal is to transform raw transactional data into **actionable business insights** that support strategic decision-making.
